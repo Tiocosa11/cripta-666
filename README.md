@@ -2,8 +2,8 @@
 
 Juego web indie minimalista de acción y disparos en 2D, hecho con **JavaScript puro** (Canvas + Web Audio), sin librerías ni instalaciones.
 
-**Jugar en línea:** https://TU-USUARIO.github.io/cripta-666/
-**Repositorio:** https://github.com/TU-USUARIO/cripta-666
+**Jugar en línea:** https://tiocosa11.github.io/cripta-666/
+**Repositorio:** https://github.com/Tiocosa11/cripta-666
 
 ## Autor
 
